@@ -60,7 +60,7 @@ $the_html= str_replace("學期課程表","學期課程表<br>".$now,$the_html);
 //寫入
 $the_txt;$now;
 
-$the_txt="<html><head><meta charset=\"utf-8\"><style>td {text-align:center;font-family:新細明體;font-size:10} input {font-family:新細明體;font-size:12} button {font-family:新細明體;font-size:12}p {margin: 1px;}<style></head><body>".$now.$the_html;
+$the_txt="<html><head><meta charset=\"utf-8\"><style>td {text-align:center;font-family:新細明體;font-size:10} input {font-family:新細明體;font-size:12} button {font-family:新細明體;font-size:12}p {margin: 1px;}</style></head><body>".$now.$the_html;
 //注意編碼問題
 $file=fopen("index.html","w");
 fwrite($file,$the_txt);
