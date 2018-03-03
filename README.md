@@ -10,4 +10,8 @@ https://gary0130.github.io/get_tku_class/
 
 20170926
 
+作為練習還是會持續更新
+
+20180304
+
 by gary0130
