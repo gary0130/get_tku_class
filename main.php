@@ -19,22 +19,6 @@ date_default_timezone_set('Asia/Taipei');
 $now="更新日期 ".date("Y/m/d h:i:sa");
 $data_info= '<div style="background-color:	#00BBFF;position: fixed;">' . $now . '</div>';
 
-$url_peo=array(
-	"http://esquery.tku.edu.tw/acad/upload/A02_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A05_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A11_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A03_9.htm");
-$url_soc=array(
-	"http://esquery.tku.edu.tw/acad/upload/A09_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A08_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A12_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A07_9.htm");
-$url_sci=array(
-	"http://esquery.tku.edu.tw/acad/upload/A01_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A14_9.htm",
-	"http://esquery.tku.edu.tw/acad/upload/A10_9.htm",
-	"");
-	
 $source_url=array(
 	"http://esquery.tku.edu.tw/acad/upload/A02_9.htm",
 	"http://esquery.tku.edu.tw/acad/upload/A05_9.htm",
