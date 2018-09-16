@@ -14,4 +14,8 @@ https://gary0130.github.io/get_tku_class/
 
 20180304
 
+這個版本不會再更新了，會直接開發第3版
+
+20180916
+
 by gary0130
